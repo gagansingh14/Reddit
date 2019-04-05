@@ -1,6 +1,6 @@
 # Reddit
 
-It is often dicult to predict what factors directly contribute to the popularity of comments, which is also
+It is often dificult to predict what factors directly contribute to the popularity of comments, which is also
 a huge point of interest for fields such as marketing. In this project I will introduce the model for predicting the
 popularity of comments on Reddit. More specifically, I will be analyzing the performance of linear regression
 models on the popularity of Reddit comments. In the hypothesis I use features such as the actual comments, the
